@@ -1,0 +1,6 @@
+{
+  "name": "PinkAware: Gemma 4 Breast Cancer Risk & Awareness Guide",
+  "description": "An educational research and awareness platform powered by Gemma 4 to analyze pre-disposing factors for breast cancer in young adult females and provide actionable preventive guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
